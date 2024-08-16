@@ -1,0 +1,22 @@
+{
+    "sourceFile": "src/App.vue",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 1,
+            "patches": [
+                {
+                    "date": 1722563312232,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1722563318122,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -10,5 +10,5 @@\n   <Footerview/>\n </template>\n \n <style  >\n-</style>\n+</style>\n\\ No newline at end of file\n"
+                }
+            ],
+            "date": 1722563312232,
+            "name": "Commit-0",
+            "content": "<script setup>\nimport { RouterView } from 'vue-router'\nimport Headerview from '../src/components/TheHeader.vue'\nimport Footerview from '../src/components/TheFooter.vue'\n</script>\n\n<template>\n  <Headerview/>\n    <RouterView />\n  <Footerview/>\n</template>\n\n<style  >\n</style>\n"
+        }
+    ]
+}

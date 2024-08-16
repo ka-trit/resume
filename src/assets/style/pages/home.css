@@ -1,0 +1,110 @@
+.homePage{
+    padding: 0;
+    margin: 0;
+}
+h4{
+    text-transform: uppercase;
+    color: #3471b2 !important;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.body-content{
+    margin-bottom: 25px;
+}
+.cards {
+    margin-bottom: 10px;
+    height: 100%;
+    padding: 15px;
+    border: 0.2px solid#8bbf57; 
+    border-radius: 15px 0 15px 0;
+    /* box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; */
+
+}
+.cards:hover{
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;       
+    transition: opacity 1s ease-in-out; /* Increased duration to 1s */
+
+}
+
+/* ======================traditional===================== */
+
+
+  .image-trad {
+    position: relative;
+    overflow: hidden; 
+  }
+  
+  .trad-img {
+    transition: transform 1s ease-in-out, 
+    width 1s ease-in-out; /* Increased duration to 1s */
+  }
+  
+  .trad-title {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    background: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    padding: 10px 0;
+    opacity: 0;
+    transition: opacity 1s ease-in-out; /* Increased duration to 1s */
+  }
+  
+  .image-trad:hover .trad-img {
+    transform: scale(1.1); /* Increased zoom size */
+    width: 100%; /* Maintain the same width */
+  }
+
+  
+  
+  .image-trad:hover .trad-title {
+    opacity: 1;
+  }
+  .image-trad:hover  {
+    opacity: 1;
+  }
+
+.image {
+    position: relative;
+    overflow: hidden; /* Ensure the image does not overflow the container */
+  }
+  
+  .img-zoom {
+    transition: transform 1.5s ease-in-out, width 1.5s ease-in-out; /* Slow transition */
+  }
+  
+  .image:hover .img-zoom {
+    transform: scale(1.1); /* Increased zoom size */
+    width: 100%; /* Maintain the same width */
+  }
+  .title-desc{
+    display: -webkit-box;
+    -webkit-line-clamp:2;
+    overflow: hidden;
+    -webkit-box-orient: vertical;
+  }
+  
+
+@media only screen and (max-width: 992px) {
+    .col-lg-4.col-md-4 {
+        margin: auto !important;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .image {
+        height: 400px !important;
+     }
+}
+@media only screen and (max-width: 576px) {
+    .image {
+        height: 400px !important;
+     }
+}
+/* @media only screen and (min-width: 376px) {
+    .image {
+        height: 300px !important;
+     }
+} */
