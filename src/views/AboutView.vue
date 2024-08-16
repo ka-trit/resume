@@ -4,7 +4,7 @@
     <section class="text-center mb-5 top">
       <h2 class="display-4 fw-bold">About Me.</h2>
       <p class="lead mt-4">
-        Human Resources Manager with over 3 plus years of experience in talent management, employee relations, and benefits administration. Proven track record of successfully implementing HR initiatives and programs that improve employee engagement and satisfaction. Adept at handling complex employee relations issues and negotiating resolutions that meet the needs of both the company and employees. Strong communication and interpersonal skills, with the ability to effectively communicate with employees at all levels of the organization. Committed to maintaining compliance with all labor and employment laws and regulations.
+        I am koev! I am a Quality Assurance. I have experience 2 year experience  I met 7 project I can undertand many businesess.
       </p>
       <a href="#" class="btn btn-primary mt-4">Download CV</a>
     </section>
@@ -14,14 +14,14 @@
       <h3 class="fw-bold">Education</h3>
       <ul class="list-unstyled mt-3">
         <li class="mb-2">
-          <strong>2022-2023</strong><br />
-          SZABIST Islamabad, Pakistan<br />
-          Masters in HRM
+          <strong>2020-2022</strong><br />
+          Passerellesnumeriques Cambodia<br />
+          associate degree
         </li>
         <li class="mb-2">
-          <strong>2017-2021</strong><br />
-          Fatima Jinnah Women University Rawalpindi, Pakistan<br />
-          Bachelor's in Public Administration
+          <strong>21 May 2024 - 21 August 2024</strong><br />
+          ADITI Acadamy <br />
+          Short Course
         </li>
       </ul>
     </section>

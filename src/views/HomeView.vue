@@ -13,11 +13,7 @@
       <div class="col-md-6 text-start">
         <h1 class="display-4 fw-bold">Hello</h1>
         <p class="lead">
-          Meet Maida Rasul, an experienced Human Resource Manager with an
-          unwavering passion for the Information Technology and Services
-          industry. With a career marked by dedication, innovation, and a deep
-          understanding of the HR landscape, Maida Rasul is here to transform
-          your organization's human capital into a strategic asset.
+          I am koev! I am a Quality Assurance. I have experience 2 year experience  I met 7 project I can undertand many businesess.
         </p>
         <div class="d-flex justify-content-start gap-3">
           <button type="button" class="btn btn-outline-secondary">Services</button>
